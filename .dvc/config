@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/mtxit/Desktop/self/mlops/temp/campusx-storage
